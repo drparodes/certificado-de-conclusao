@@ -1,4 +1,4 @@
-# CERTIFICADO DE CONCLUSÃO
+# Certificações Profissionais Globais
 
 Repositório dedicado às minhas certificações concluídas.
 
