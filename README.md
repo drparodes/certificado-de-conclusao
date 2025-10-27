@@ -60,6 +60,7 @@ Repositório dedicado às minhas certificações reconhecidas mundialmente.
       <strong>Certificado de Conclusão</strong><br>
 <a href="SegurancaemTecnologiadaInformacao.pdf">Baixar Certificado em PDF</a>
     </td>
+    ---
   </tr>
 </table>
 
