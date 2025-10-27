@@ -4,9 +4,9 @@ Repositório dedicado às minhas certificações reconhecidas mundialmente.
 
 ---
 
-<p align="center">
-  <h3>Microsoft Word 2016 - Básico</h3>
-</p>
+
+  <center><h3>Microsoft Word 2016 - Básico</h3></center>
+
 <table>
   <tr>
     <td>
