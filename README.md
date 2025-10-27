@@ -42,9 +42,9 @@ https://lms.ev.org.br/mpls/web/Lms/UnifiedSearch/PageUnifiedSearch.aspx?elementI
 
 ---
 
-<p align="center">
-  <h3>Segurança em Tecnologia da Informação</h3>
-</p>
+<div align="center">
+<h3>Segurança em Tecnologia da Informação</h3>
+</div>
 
 <table>
   <tr>
