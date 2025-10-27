@@ -1,4 +1,4 @@
-# Certificações Profissionais Internacionais
+# Certificações Reconhecidas Mundialmente
 
 Repositório dedicado às minhas certificações reconhecidas mundialmente.
 
