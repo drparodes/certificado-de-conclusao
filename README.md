@@ -8,9 +8,8 @@ Repositório dedicado às minhas certificações reconhecidas mundialmente.
 <table>
   <tr>
     <td>
-      <strong>Certificado de Conclusão</strong><br><td>
-<a href="MicrosoftWord2016Basico.pdf">Baixar Certificado em PDF</a><br>
-</td>
+      <strong>Certificado de Conclusão</strong><br>
+<a href="MicrosoftWord2016Basico.pdf">Baixar Certificado em PDF</a>
     </td>
     <td>
       <strong>Modalidade:</strong><br>
