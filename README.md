@@ -7,8 +7,12 @@ Repositório dedicado às minhas certificações reconhecidas mundialmente.
 <img src="MicrosoftWord2016Basico.png" alt="Certificado Microsoft Word 2016 - Básico">
 
 ---
+### Microsoft Word 2016 - Básico  
+**Modalidade:** On-line  
+**Status:** ✅ Aprovado  
+**Data de Conclusão:** 27/10/2025 às 14:17  
 
-| Microsoft Word 2016 - Básico  <br>**Modalidade:** On-line<br>**Status:** ✅ Aprovado<br>**Data de Conclusão:** 27/10/2025 às 14:17 | <img src="d653f78153db3fb07497212ddb21b584.png" width="150px"> |
+| Microsoft Word 2016 - Básico <br>**Data de Conclusão:** 27/10/2025 às 14:17 | <img src="d653f78153db3fb07497212ddb21b584.png" width="150px"> |
 |------------------------------------------------------------|------------------------------------------|
 
 
