@@ -10,7 +10,7 @@ Repositório dedicado às minhas certificações reconhecidas mundialmente.
 <table>
   <tr>
     <td>
-      <strong>Microsoft Word 2016 - Básico</strong><br>
+      <strong>Certificado</strong><br>
       Microsoft Word 2016 - Básico
     </td>
     <td>
