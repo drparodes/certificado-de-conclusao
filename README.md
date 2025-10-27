@@ -17,10 +17,7 @@ Repositório dedicado às minhas certificações reconhecidas mundialmente.
       <strong>Data de Conclusão:</strong> 27/10/2025 às 14:17
     </td>
 
-    <!-- Coluna com a imagem do certificado -->
-    <td>
-      <img src="MicrosoftWord2016Basico.png" style="width:100%; max-width:600px; height:auto;" alt="Certificado Microsoft Word 2016 - Básico">
-    </td>
+
   </tr>
 </table>
 
