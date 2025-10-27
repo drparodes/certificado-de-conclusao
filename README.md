@@ -23,5 +23,5 @@ Repositório dedicado às minhas certificações concluídas.
 **Data de Conclusão:** 27/10/2025 às 15:10  
 
 ![Certificado Segurança em Tecnologia da Informação](certificado_segurançaTI.webp)
-[Baixar Portfólio de Certificações](Segurança em Tecnologia da Informação.pdf)
+![📥 Baixar Portfólio de Certificações](Segurança em Tecnologia da Informação.pdf)
 ---
