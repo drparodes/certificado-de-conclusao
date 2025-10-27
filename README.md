@@ -26,7 +26,12 @@ Repositório dedicado às minhas certificações reconhecidas mundialmente.
   </tr>
 </table>
 
-```https://lms.ev.org.br/mpls/web/Lms/UnifiedSearch/PageUnifiedSearch.aspx?elementID=520&filtersByContentType=WEB```
+```
+[git status
+git add
+git commit](https://lms.ev.org.br/mpls/web/Lms/UnifiedSearch/PageUnifiedSearch.aspx?elementID=520&filtersByContentType=WEB)
+```
+
 ---
 
 <img src="MicrosoftWord2016Basico.png" style="width:100%; max-width:600px; height:auto;" alt="Certificado Microsoft Word 2016 - Básico">
