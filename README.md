@@ -9,18 +9,18 @@ Repositório dedicado às minhas certificações reconhecidas mundialmente.
 ---
 <table>
   <tr>
-    <!-- Coluna com informações e link PDF -->
+  
     <td>
-      <strong>Microsoft Word 2016 - Básico</strong><br>
+      <strong>Microsoft Word 2016 - Básico</strong>
     </td>
  <td>
-    <strong>Modalidade:</strong> On-line<br>
+    <strong>Modalidade:</strong><br> On-line
 </td>
 <td>
-   <strong>Status:</strong> ✅ Aprovado<br>
+   <strong>Status:</strong><br> ✅ Aprovado
    </td
      <td>
-    <strong>Data de Conclusão:</strong> 27/10/2025 às 14:17
+    <strong>Data de Conclusão:<br></strong> 27/10/2025 às 14:17
    </td>
   </tr>
 </table>
