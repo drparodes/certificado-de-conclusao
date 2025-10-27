@@ -1,4 +1,4 @@
-# Certificações Reconhecidas Mundialmente
+# Certificações Reconhecidas Mundialmente - Internacionais
 
 Repositório dedicado às minhas certificações reconhecidas mundialmente.
 
