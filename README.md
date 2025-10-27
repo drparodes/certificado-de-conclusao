@@ -2,7 +2,9 @@
   <h1>Bem-vindo(a) às Minhas Certificações</h1>
 </div>
 
-Repositório dedicado às minhas certificações reconhecidas mundialmente.
+<div align="center">
+  Repositório dedicado às minhas certificações reconhecidas mundialmente.
+</div>
 
 ---
 
