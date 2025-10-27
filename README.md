@@ -14,9 +14,6 @@ Repositório dedicado às minhas certificações reconhecidas mundialmente.
 <tr>
 <td>
 📥 <a href="MicrosoftWord2016Basico.pdf">Baixar Certificado em PDF</a><br>
-**Modalidade:** On-line<br>
-**Status:** ✅ Aprovado<br>
-**Data de Conclusão:** 27/10/2025 às 14:17
 </td>
 <td>
 <img src="MicrosoftWord2016Basico.png" style="width:100%; max-width:600px; height:auto;" alt="Certificado Microsoft Word 2016 - Básico">
@@ -36,9 +33,6 @@ Repositório dedicado às minhas certificações reconhecidas mundialmente.
 <tr>
 <td>
 📥 <a href="SegurancaemTecnologiadaInformacao.pdf">Baixar Certificado em PDF</a><br>
-**Modalidade:** On-line<br>
-**Status:** ✅ Aprovado<br>
-**Data de Conclusão:** 27/10/2025 às 15:10
 </td>
 <td>
 <img src="SegurancaemTecnologiadaInformacao.png" style="width:100%; max-width:600px; height:auto;" alt="Certificado Segurança em Tecnologia da Informação">
