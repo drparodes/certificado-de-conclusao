@@ -12,7 +12,6 @@ Repositório dedicado às minhas certificações reconhecidas mundialmente.
 [ Baixar Certificado em PDF](MicrosoftWord2016Basico.pdf)
 ![Certificado Microsoft Word 2016 - Básico](MicrosoftWord2016Basico.png)  
 
-
 ---
 
 ### Segurança em Tecnologia da Informação  
@@ -22,6 +21,4 @@ Repositório dedicado às minhas certificações reconhecidas mundialmente.
 
 [ Baixar Certificado em PDF](SegurancaemTecnologiadaInformacao.pdf)
 ![Certificado Segurança em Tecnologia da Informação](SegurancaemTecnologiadaInformacao.png)  
-
-
 ---
