@@ -76,9 +76,8 @@ Repositório dedicado às minhas certificações reconhecidas mundialmente.
   </tr>
 
 
-
+</table>
+---
 <img src="MicrosoftWord2016Basico.png" style="width:100%; max-width:600px; height:auto;" alt="Certificado Microsoft Word 2016 - Básico">
 
 ---
-</tr>
-</table>
