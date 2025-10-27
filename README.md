@@ -4,11 +4,11 @@ Repositório dedicado às minhas certificações reconhecidas mundialmente.
 
 ---
 
-<p align="center">
-  <h3>Microsoft Word 2016 - Básico</h3>
-</p>
+<div align="center">
+ <h3>Microsoft Word 2016 - Básico</h3>
+</div>
 
-<table>
+<table align="center">
   <tr>
     <td>
       <strong>Modalidade:</strong><br>
@@ -46,7 +46,7 @@ https://lms.ev.org.br/mpls/web/Lms/UnifiedSearch/PageUnifiedSearch.aspx?elementI
 <h3>Segurança em Tecnologia da Informação</h3>
 </div>
 
-<table>
+<table align="center">
   <tr>
     <td>
       <strong>Modalidade:</strong><br>
