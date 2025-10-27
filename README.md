@@ -27,9 +27,7 @@ Repositório dedicado às minhas certificações reconhecidas mundialmente.
 </table>
 
 ```
-[git status
-git add
-git commit](https://lms.ev.org.br/mpls/web/Lms/UnifiedSearch/PageUnifiedSearch.aspx?elementID=520&filtersByContentType=WEB)
+https://lms.ev.org.br/mpls/web/Lms/UnifiedSearch/PageUnifiedSearch.aspx?elementID=520&filtersByContentType=WEB
 ```
 
 ---
