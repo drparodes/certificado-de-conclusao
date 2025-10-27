@@ -37,7 +37,7 @@ Repositório dedicado às minhas certificações reconhecidas mundialmente.
 </table>
 
 
-<img src="MicrosoftWord2016Basico.png" style="width:100%; max-width:600px; height:auto;" alt="Certificado Microsoft Word 2016 - Básico">
+<img src="SegurancaemTecnologiadaInformacao.png" style="width:100%; max-width:600px; height:auto;" alt="Certificado Microsoft Word 2016 - Básico">
 
 ---
 <h3>Segurança em Tecnologia da Informação</h3>
@@ -45,7 +45,8 @@ Repositório dedicado às minhas certificações reconhecidas mundialmente.
 <table>
   <tr>
     <td>
-      <strong>Certificado de Conclusão</strong>
+      <strong>Certificado de Conclusão</strong><br>
+<a href="SegurancaemTecnologiadaInformacao.pdf">Baixar Certificado em PDF</a>
     </td>
     <td>
       <strong>Modalidade:</strong><br>
