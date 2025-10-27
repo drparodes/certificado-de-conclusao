@@ -26,7 +26,7 @@ Repositório dedicado às minhas certificações reconhecidas mundialmente.
 
   <!-- Avatar à direita -->
   <div style="flex: 0;">
-    <img src="avatar.png" alt="Avatar" style="width: 60px; height: 60px; border-radius: 50%; margin-left: 20px;">
+    <img src="MicrosoftWord2016Basico.png" alt="Avatar" style="width: 60px; height: 60px; border-radius: 50%; margin-left: 20px;">
   </div>
 </div>
 
