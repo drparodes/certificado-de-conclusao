@@ -1,6 +1,6 @@
 # 🎓 Certificações Profissionais
 
-Repositório dedicado às minhas certificações concluídas na área de **produtividade** e **tecnologia da informação**.
+Repositório dedicado às minhas certificações concluídas.
 
 ---
 
@@ -24,7 +24,7 @@ Repositório dedicado às minhas certificações concluídas na área de **produ
 **Status:** ✅ Aprovado  
 **Data de Conclusão:** 27/10/2025 às 15:10  
 
-![Certificado Segurança em Tecnologia da Informação]([https://cdn.discordapp.com/attachments/SEU_LINK_AQUI/certificado_seguranca_ti.png](https://media.discordapp.net/attachments/1432437329490083880/1432437446796251227/image.png?ex=69010cd4&is=68ffbb54&hm=c605dd6e01224172a0793633c73f523cd33487ba114ece90bee98a24f4bf22fe&=&format=webp&quality=lossless&width=609&height=471))
+![Certificado Segurança em Tecnologia da Informação](https://media.discordapp.net/attachments/1432437329490083880/1432437446796251227/image.png?ex=69010cd4&is=68ffbb54&hm=c605dd6e01224172a0793633c73f523cd33487ba114ece90bee98a24f4bf22fe&=&format=webp&quality=lossless&width=609&height=471)
 
 🔗 **[Acessar Certificado](#)**
 
