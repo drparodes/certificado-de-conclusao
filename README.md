@@ -4,7 +4,7 @@ Repositório dedicado às minhas certificações reconhecidas mundialmente.
 
 ---
 
-<img src="d653f78153db3fb07497212ddb21b584.png" style="width:100%; max-width:600px; height:auto;" alt="d653f78153db3fb07497212ddb21b584.png">
+<img src="MicrosoftWord2016Basico.png" style="width:100%; max-width:600px; height:auto;" alt="Certificado Microsoft Word 2016 - Básico">
 
 ---
 
@@ -31,8 +31,6 @@ Repositório dedicado às minhas certificações reconhecidas mundialmente.
 </table>
 
 <table>
-
-<img src="MicrosoftWord2016Basico.png" style="width:100%; max-width:600px; height:auto;" alt="Certificado Microsoft Word 2016 - Básico">
 
 ---
 </tr>
