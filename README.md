@@ -38,6 +38,8 @@ Repositório dedicado às minhas certificações reconhecidas mundialmente.
 
 <img src="SegurancaemTecnologiadaInformacao.png" style="width:100%; max-width:600px; height:auto;" alt="Certificado Microsoft Word 2016 - Básico">
 
+---
+
 <h3>Segurança em Tecnologia da Informação</h3>
 
 <table>
