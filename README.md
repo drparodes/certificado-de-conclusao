@@ -11,7 +11,6 @@ Repositório dedicado às minhas certificações reconhecidas mundialmente.
 <h3>Microsoft Word 2016 - Básico</h3>
 <table>
   <tr>
-    
     <td>
       <strong>Modalidade:</strong><br>
       On-line
@@ -42,7 +41,10 @@ Repositório dedicado às minhas certificações reconhecidas mundialmente.
 
 <table>
   <tr>
-   
+     <td>
+      <strong>Certificado de Conclusão</strong><br>
+<a href="SegurancaemTecnologiadaInformacao.pdf">Baixar Certificado em PDF</a>
+    </td>
     <td>
       <strong>Modalidade:</strong><br>
       On-line
@@ -55,10 +57,7 @@ Repositório dedicado às minhas certificações reconhecidas mundialmente.
       <strong>Conclusão:</strong><br>
       27/10/2025
     </td>
-     <td>
-      <strong>Certificado de Conclusão</strong><br>
-<a href="SegurancaemTecnologiadaInformacao.pdf">Baixar Certificado em PDF</a>
-    </td>
+
   </tr>
 </table>
 
