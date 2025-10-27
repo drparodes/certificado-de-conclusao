@@ -9,7 +9,7 @@ Repositório dedicado às minhas certificações concluídas.
 **Status:** ✅ Aprovado  
 **Data de Conclusão:** 27/10/2025 às 14:17  
 [ Baixar Certificado em PDF](MicrosoftWord2016Básico.pdf)
-![Certificado Microsoft Word 2016 - Básico](MicrosoftWord2016Básico.webp)  
+![Certificado Microsoft Word 2016 ](MicrosoftWord2016Básico.webp)
 
 ---
 
