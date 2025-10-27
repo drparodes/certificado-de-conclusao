@@ -62,11 +62,11 @@ Repositório dedicado às minhas certificações reconhecidas mundialmente.
     </td>
     <td>
       <strong>Status:</strong><br>
-      ✅ Aprovado
+      Aprovado
     </td>
     <td>
       <strong>Conclusão:</strong><br>
-      27/10/2025 às 15:10
+      27/10/2025
     </td>
   </tr>
 </table>
