@@ -12,12 +12,13 @@ Repositório dedicado às minhas certificações reconhecidas mundialmente.
     <!-- Coluna com informações e link PDF -->
     <td>
       <strong>Microsoft Word 2016 - Básico</strong><br>
-      <strong>Modalidade:</strong> On-line<br>
+     
       <strong>Status:</strong> ✅ Aprovado<br>
       <strong>Data de Conclusão:</strong> 27/10/2025 às 14:17
     </td>
-
-
+ <td>
+    <strong>Modalidade:</strong> On-line<br>
+</td>
   </tr>
 </table>
 
