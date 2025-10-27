@@ -1,6 +1,6 @@
-# Certificações Profissionais Globais
+# Certificações Profissionais Internacionais
 
-Repositório dedicado às minhas certificações concluídas.
+Repositório dedicado às minhas certificações reconhecidas mundialmente.
 
 ---
  
